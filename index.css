@@ -1,0 +1,6 @@
+.pos{
+    width: 20px;
+    height: 20px;
+    background: url("../images/1.png") no-repeat 0px 0px;
+    background-size: cover;
+}
